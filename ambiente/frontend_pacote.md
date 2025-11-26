@@ -1,4 +1,4 @@
-# para rodar o frontend do Task Flow localmente..
+**para rodar o frontend do Task Flow localmente..**
 
 <h1>Como rodar o frontend localmente</h1>
 
