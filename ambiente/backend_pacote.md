@@ -1,4 +1,4 @@
-# guia de instalação de dependências, conf de variáveis de ambiente, etc..
+**guia de instalação de dependências, conf de variáveis de ambiente, etc..**
 
 <h1>Como rodar a API localmente</h1>
 
@@ -17,7 +17,7 @@ Depois de clonar o projeto e instalar o mongoDB, no seu .env é importante que t
 > **DATABASE_URL=**
 >
 
-# Nesse caso irei passar a URL criada
+**Nesse caso irei passar a URL criada**
 
 E para rodar, apenas digite **npm run dev** no terminal do bash.
 
